@@ -1,0 +1,100 @@
+objectTypes = {
+	pdxmesh = {
+		name = "ig_astronomical_objects_flat_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_flat.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_galactic_core_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_galactic_core.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_globular_cloud_big_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_globular_cloud_big.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_globular_cloud_med_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_globular_cloud_med.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_companion_galaxy_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_companion_galaxy.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_animated_companion_galaxy_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_companion_galaxy_animated.mesh"
+		animation = { id = "idle"	type = "planet_non_clouded_idle" }
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_companion_galaxy_star_field_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_companion_galaxy_star_field.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_companion_dwarf_galaxy_outer_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_companion_dwarf_galaxy_outer.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_companion_dwarf_galaxy_inner_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_companion_dwarf_galaxy_inner.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_nebula_03_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_nebula_03.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_nebula_04_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_nebula_04.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_nebula_05_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_nebula_05.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_nebula_06_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_nebula_06.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_nebula_07_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_nebula_07.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_nebula_08_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_nebula_08.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_nebula_09_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_nebula_09.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_quadrant_01_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_quadrant.mesh"
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_quadrant_animated_01_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_quadrant_animated.mesh"
+		animation = { id = "idle"	type = "planet_non_clouded_idle" }
+		scale = 1
+	}
+	pdxmesh = {
+		name = "ig_astronomical_objects_cloud_animated_01_mesh"
+		file = "gfx/models/galaxy_map/ig_astronomical_objects_cloud_animated.mesh"
+		animation = { id = "idle"	type = "planet_non_clouded_idle" }
+		scale = 1
+	}
+}
