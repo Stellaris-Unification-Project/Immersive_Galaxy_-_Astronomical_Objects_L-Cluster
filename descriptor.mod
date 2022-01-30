@@ -8,4 +8,4 @@ tags={
 }
 picture="Icon-AstronomicalObjects-LCluster.png"
 remote_file_id="1445669162"
-supported_version="2.1.*"
+supported_version="3.2.2"
